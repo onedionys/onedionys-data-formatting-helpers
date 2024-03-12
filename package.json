@@ -1,6 +1,6 @@
 {
   "name": "onedionys-data-formatting-helpers",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (Data Formatting Helpers) - Functions to format data such as numbers, dates, or currencies in various formats.",
   "main": "src/dataFormattingHelpers.js",
   "directories": {
